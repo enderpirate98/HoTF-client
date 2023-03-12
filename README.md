@@ -1,6 +1,6 @@
-# Tutorial
+# Intro
 
-This a guide for actually joining the world and playing in it.
+This a guide for joining the Home of the frog world and playing in it.
 
 everyone is expected to read and follow this guide to join, if you have any questions please read through the guide first and if you still have problems then please post them in server-problems, With all that out of the way lets begin! 
 
